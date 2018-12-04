@@ -14,25 +14,26 @@ planowany termin to 05.01.2019 (sobota a następnie noc z soboty na niedzielę)
 13:30 - ostateczny termin startu rozgrywek
 
 3.	Wstępna lista gier:
-[1]	DBZU v6.1 (http://s1.zetaboards.com/UltimateDbz) (max 12 graczy)
-[2]	DotA Allstars v6.85n (http://d1stats.ru/download) -apso (max 10 graczy)
-[3]	Warcraft III: The Frozen Throne v1.30.0.9922 (max 24 graczy, 12 co-op)
-[4]	Unreal Tournament 2004 (max 24 graczy)
-[5]	Quake 3 Arena (max 16 graczy)
-[6]	Insurgency (https://bit.ly/2v58fQX) (max 32)
-[7]	Terrania v1.12 (http://terrania.freeforums.org) (max 11 graczy)
-[8]	Heroes of the Storm (max 10 graczy)
-[9]	Starcraft 2 (max 10 graczy)
-[10]	Age of Empires: Rise of Rome UPatch HD 1.1 Release 4 (https://bit.ly/2Kh9Ppe) (max 8)
-[11]	Age of Empires II: Forgotten Empires (max 8 graczy)
-[12]	Tzar v1.11 (max 8 graczy)
-[13]	TKoK v3.5.4-2 (ORPG) (http://tkokrpg.com) (max 7 graczy)
-[14]	Gaias Retaliation ORPG v1.2D(5) (https://bit.ly/2MlItz0) (max 6 graczy)
-[15]	Resident Evil Snow v3.4 (http://www.epicwar.com/maps/250349) (max 8 graczy)
-[16]	Dota 2 10v10 (max 20 graczy, 10 co-op)
-[17]	Rocket League (max 8 graczy)
-[18]	Skibi's Castle TD v6.02 (https://www.epicwar.com/maps/6998) (max 10 graczy)
-[19]	Soldat (https://www.soldat.pl) (max 32 graczy)
+Lp. | Tytuł gry                             | Maksymalna ilość graczy | Komentarz
+1   | DBZU                                  | 12                      | v6.1 http://s1.zetaboards.com/UltimateDbz
+2	  | DotA Allstars                         | 10                      | v6.85n http://d1stats.ru/download) -apso
+3	  | Warcraft III: The Frozen Throne       | 24, 12 co-op            | v1.30.0.9922 (max 24 graczy, 12 co-op)
+4	  | Unreal Tournament 2004                | 24                      |
+5	  | Quake 3 Arena                         | 16                      |
+6	  | Insurgency                            | 32                      | https://bit.ly/2v58fQX
+7	  | Terrania                              | 11                      | v1.12 http://terrania.freeforums.org
+8	  | Heroes of the Storm                   | 10                      |
+9	  | Starcraft 2                           | 10                      |
+10	| Age of Empires: Rise of Rome          | 8                       | UPatch HD 1.1 Release 4 https://bit.ly/2Kh9Ppe
+11	| Age of Empires II: Forgotten Empires  | 8                       |
+12	| Tzar                                  | 8                       | v1.11
+13	| TKoK                                  | 7                       | v3.5.4-2 (ORPG) http://tkokrpg.com
+14	| Gaias Retaliation ORPG                | 6                       | v1.2D(5) https://bit.ly/2MlItz0
+15	| Resident Evil Snow                    | 8                       | v3.4 http://www.epicwar.com/maps/250349
+16	| Dota 2                                | 20, 10 co-op            | 
+17	| Rocket League                         | 8                       |
+18	| Skibi's Castle TD                     | 10                      | v6.02 https://www.epicwar.com/maps/6998
+19	| Soldat                                | 32                      | https://www.soldat.pl
 
 Do listy mogą być oczywiście dopisane kolejne gry (np. z tej listy http://www.hiveworkshop.com/forums/maps.php?mmr=6) - propozycję prosimy umieszczać na stronie eventu. Istnieje jednak limit zgłaszania pozycji - jedna pozycja na uczestnika. Termin składania propozycji to 18:00 dnia poprzedzającego dzień lan party. Po tej dacie nastąpi zamknięcie listy gier. Zalecane jest żeby gry wspierały grę przez LAN, oraz nie miały wymogów rejestracji. (Termin ten związany jest z czasem potrzebnym na instalację i konfigurację gier na wszystkich stanowiskach). Zależnie od ostatecznej liczby graczy, niektóre pozycje mogą być wykreślone z listy gier w przypadku, gdy liczba graczy przekracza maksimum dla danej gry (patrz parametr “max X graczy”).
 
