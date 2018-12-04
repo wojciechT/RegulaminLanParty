@@ -15,6 +15,7 @@ planowany termin to 05.01.2019 (sobota a następnie noc z soboty na niedzielę)
 
 3.	Wstępna lista gier:
 Lp. | Tytuł gry                             | Maksymalna ilość graczy | Komentarz
+--- | ------------------------------------- | ----------------------- | -----------------------------------------------
 1   | DBZU                                  | 12                      | v6.1 http://s1.zetaboards.com/UltimateDbz
 2	  | DotA Allstars                         | 10                      | v6.85n http://d1stats.ru/download) -apso
 3	  | Warcraft III: The Frozen Throne       | 24, 12 co-op            | v1.30.0.9922 (max 24 graczy, 12 co-op)
