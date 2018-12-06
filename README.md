@@ -114,7 +114,24 @@ Wszelkie konflikty, których nie opisuje regulamin, winny być rozwiązywane na 
 ### 15. Co zrobić ze swoją dziewczyną?
 Możesz przyprowadzić ją do nas a Athena zabierze wszystkie dziewczyny na nieco inną imprezę „Girls Night out” 
 
-### 16. Pytania?
+### 17. Limit ilości uczestników
+Bazowy limit wynosi 10 osób z racji dużej dostępności gier z taką zadeklarowaną maksymalną ilością graczy.
+Jeżeli jednak ilość osób chętnych będzie większa niż 11 zostanie utworzona lista "rezerwowa".
+
+  Rozgrywka z wykorzystaniem opcji listy "rezerwowej" odbywa się z uwzględnieniem dodatkowych zasad:
+    - Jeżeli gra umożliwia taką opcję, wszystkie osoby uczestniczą w rozgrywce
+    - Jeżeli gra ma zadeklarowany maksymalny limit graczy mniejszy niż suma ilości osób razem z listą rezerwową tworzone są dwie grupy graczy Core Gamers i Additional Gamers.
+
+    - Core Gamers wybierani przy każdej rozgrywce, kolejna gra z listy czy też powtórzenie rozgrywki, a członków wyłania się wg. następującej kolejności:
+        - osóby chętne do gry w daną grę
+        - osóby które rozegrały najmniej gier podczas całego wydarzenia
+        - w przypadku remisu rzut monetą, rzut kością
+
+    - Additional Gamers
+        - tracą prawo do głosowania w sprawie powtórzenia rozgrywki 
+        - mogą rozpocząć rozgrywkę w dowolną grę z obowiązującej listy gier z zaznaczeniem, że ich rozgrywka powinna być nie dłuższa niż sesja w której uczestniczą Core Gamers
+
+### 17. Pytania?
 Prosimy je zadawać na facebooku na stronie eventu.
 
 Zgadzam się z powyższym regulaminem LAN Party i zobowiązuje się go bezwzględnie przestrzegać.
