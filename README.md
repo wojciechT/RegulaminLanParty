@@ -120,9 +120,9 @@ Jeżeli jednak ilość osób chętnych będzie większa niż 11 zostanie utworzo
 
   Rozgrywka z wykorzystaniem opcji listy "rezerwowej" odbywa się z uwzględnieniem dodatkowych zasad:
     - Jeżeli gra umożliwia taką opcję, wszystkie osoby uczestniczą w rozgrywce
-    - Jeżeli gra ma zadeklarowany maksymalny limit graczy mniejszy niż suma ilości osób razem z listą rezerwową tworzone są dwie grupy graczy Core Gamers i Additional Gamers.
+    - Jeżeli gra ma zadeklarowany maksymalny limit graczy mniejszy niż suma ilości osób razem z listą rezerwową przed każdą rozgrywką w nowy tytuł lub powtórzeniem rozgrywki tworzone są dwie grupy graczy Core Gamers i Additional Gamers.
 
-    - Core Gamers wybierani przy każdej rozgrywce, kolejna gra z listy czy też powtórzenie rozgrywki, a członków wyłania się wg. następującej kolejności:
+    - Core Gamers wybierani się wg. następującej kolejności:
         - osóby chętne do gry w daną grę
         - osóby które rozegrały najmniej gier podczas całego wydarzenia
         - w przypadku remisu rzut monetą, rzut kością
