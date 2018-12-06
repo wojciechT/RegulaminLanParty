@@ -114,7 +114,7 @@ Wszelkie konflikty, których nie opisuje regulamin, winny być rozwiązywane na 
 ### 15. Co zrobić ze swoją dziewczyną?
 Możesz przyprowadzić ją do nas a Athena zabierze wszystkie dziewczyny na nieco inną imprezę „Girls Night out” 
 
-### 17. Limit ilości uczestników
+### 16. Limit ilości uczestników
 Bazowy limit wynosi 10 osób z racji dużej dostępności gier z taką zadeklarowaną maksymalną ilością graczy.
 Jeżeli jednak ilość osób chętnych będzie większa niż 11 zostanie utworzona lista "rezerwowa".
 
