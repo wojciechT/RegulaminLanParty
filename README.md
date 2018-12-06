@@ -64,21 +64,21 @@ Korzystamy z [Uber Eats](https://www.ubereats.com) i/lub [Pyszne.pl](https://www
 
 ### 6. Charakter rozgrywek:
 
- - W pozycji [1] Paweł Troka vs reszta uczestników LAN Party, ewentualnie jeżeli rozgrywka będzie niezbalansowana to Paweł Troka + jedna dowolna osoba vs reszta uczestników. Również możemy spróbować rozgrywki w internecie z innymi graczami na Eurobattle.net (instrukcja łączenia się z Eurobattle.net oraz niezbędne pliki do Twojego Warcrafta tutaj: [http://eurobattle.net/content/](http://eurobattle.net/content/))
+ 1. W pozycji [1] Paweł Troka vs reszta uczestników LAN Party, ewentualnie jeżeli rozgrywka będzie niezbalansowana to Paweł Troka + jedna dowolna osoba vs reszta uczestników. Również możemy spróbować rozgrywki w internecie z innymi graczami na Eurobattle.net (instrukcja łączenia się z Eurobattle.net oraz niezbędne pliki do Twojego Warcrafta tutaj: [http://eurobattle.net/content/](http://eurobattle.net/content/))
 
- - W pozycji [2] zarówno cała drużyna przeciwko AI (boty) jak i uczestnicy LAN Party rozdzieleni pomiędzy dwie drużyny przeciwko sobie tak aby rozgrywka była możliwie jak najbardziej zbalansowana. Mode: -APSO lub -APSOxx (gdzie xx to dowolny dodatek do modu APSO np. om – only mid,), w rozgrywce vs boty, mode: -apneng. Dodatkowym trybem rozgrywki jest też gra na serverze Eurobattle.net na botach STATS przeciwko innym graczom.
+ 1. W pozycji [2] zarówno cała drużyna przeciwko AI (boty) jak i uczestnicy LAN Party rozdzieleni pomiędzy dwie drużyny przeciwko sobie tak aby rozgrywka była możliwie jak najbardziej zbalansowana. Mode: -APSO lub -APSOxx (gdzie xx to dowolny dodatek do modu APSO np. om – only mid,), w rozgrywce vs boty, mode: -apneng. Dodatkowym trybem rozgrywki jest też gra na serverze Eurobattle.net na botach STATS przeciwko innym graczom.
 
- - W pozycji [3] podobnie jak w pozycji [2], bez modów oczywiście
+ 1. W pozycji [3] podobnie jak w pozycji [2], bez modów oczywiście
 
- - W pozycjach [5], [6] i [8], [9] analogicznie do pozycji [3]
+ 1. W pozycjach [5], [6] i [8], [9] analogicznie do pozycji [3]
 
- - W pozycji [7] gramy wszyscy w jednej drużynie (do 11 osób) na zasadzie PvE, jeżeli będzie nas za mało na zbalansowaną rozgrywkę, możliwa gra na Eurobattle.net z dodatkowymi innymi graczami w naszej drużynie, proszę zapoznać się z możliwymi postaciami i wybranie sobie jednej: fighter (damage dealer/dps), defender (tank), cleric (healer + mag), botanist (sadzi drzewka i kwiatki/krzewy – taki alchemik/herbist), kowal (tworzy broń, zbroje, ekwipunek), builder (buduje miasto, mury, wieże obronne).
+ 1. W pozycji [7] gramy wszyscy w jednej drużynie (do 11 osób) na zasadzie PvE, jeżeli będzie nas za mało na zbalansowaną rozgrywkę, możliwa gra na Eurobattle.net z dodatkowymi innymi graczami w naszej drużynie, proszę zapoznać się z możliwymi postaciami i wybranie sobie jednej: fighter (damage dealer/dps), defender (tank), cleric (healer + mag), botanist (sadzi drzewka i kwiatki/krzewy – taki alchemik/herbist), kowal (tworzy broń, zbroje, ekwipunek), builder (buduje miasto, mury, wieże obronne).
 
- - pozycje [4], [6], [16], [17] rozgrywka typowa dla gier tego gatunku (fps).
+ 1. pozycje [4], [6], [16], [17] rozgrywka typowa dla gier tego gatunku (fps).
 
- - w pozycje [12] gramy podobnie jak w pozycji [7] tylko bez wydzielonych klas postaci, czyli hero survival
+ 1. w pozycje [12] gramy podobnie jak w pozycji [7] tylko bez wydzielonych klas postaci, czyli hero survival
 
- - w pozycjach [10] i [11] gramy każdy inna klasa w jednej drużynie na zasadzie PvE, rozgrywka charakterystyczna dla gatunku Online RPG.
+ 1. w pozycjach [10] i [11] gramy każdy inna klasa w jednej drużynie na zasadzie PvE, rozgrywka charakterystyczna dla gatunku Online RPG.
 
 
 ### 7. Wybór gier (kolejność grania itd.): 
