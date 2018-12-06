@@ -64,31 +64,31 @@ Korzystamy z [Uber Eats](https://www.ubereats.com) i/lub [Pyszne.pl](https://www
 
 ### 6. Charakter rozgrywek:
 
- 1. W pozycji [1] Paweł Troka vs reszta uczestników LAN Party, ewentualnie jeżeli rozgrywka będzie niezbalansowana to Paweł Troka + jedna dowolna osoba vs reszta uczestników. Również możemy spróbować rozgrywki w internecie z innymi graczami na Eurobattle.net (instrukcja łączenia się z Eurobattle.net oraz niezbędne pliki do Twojego Warcrafta tutaj: [http://eurobattle.net/content/](http://eurobattle.net/content/))
+ - W pozycji [1] Paweł Troka vs reszta uczestników LAN Party, ewentualnie jeżeli rozgrywka będzie niezbalansowana to Paweł Troka + jedna dowolna osoba vs reszta uczestników. Również możemy spróbować rozgrywki w internecie z innymi graczami na Eurobattle.net (instrukcja łączenia się z Eurobattle.net oraz niezbędne pliki do Twojego Warcrafta tutaj: [http://eurobattle.net/content/](http://eurobattle.net/content/))
 
- 1. W pozycji [2] zarówno cała drużyna przeciwko AI (boty) jak i uczestnicy LAN Party rozdzieleni pomiędzy dwie drużyny przeciwko sobie tak aby rozgrywka była możliwie jak najbardziej zbalansowana. Mode: -APSO lub -APSOxx (gdzie xx to dowolny dodatek do modu APSO np. om – only mid,), w rozgrywce vs boty, mode: -apneng. Dodatkowym trybem rozgrywki jest też gra na serverze Eurobattle.net na botach STATS przeciwko innym graczom.
+ - W pozycji [2] zarówno cała drużyna przeciwko AI (boty) jak i uczestnicy LAN Party rozdzieleni pomiędzy dwie drużyny przeciwko sobie tak aby rozgrywka była możliwie jak najbardziej zbalansowana. Mode: -APSO lub -APSOxx (gdzie xx to dowolny dodatek do modu APSO np. om – only mid,), w rozgrywce vs boty, mode: -apneng. Dodatkowym trybem rozgrywki jest też gra na serverze Eurobattle.net na botach STATS przeciwko innym graczom.
 
- 1. W pozycji [3] podobnie jak w pozycji [2], bez modów oczywiście
+ - W pozycji [3] podobnie jak w pozycji [2], bez modów oczywiście
 
- 1. W pozycjach [5], [6] i [8], [9] analogicznie do pozycji [3]
+ - W pozycjach [5], [6] i [8], [9] analogicznie do pozycji [3]
 
- 1. W pozycji [7] gramy wszyscy w jednej drużynie (do 11 osób) na zasadzie PvE, jeżeli będzie nas za mało na zbalansowaną rozgrywkę, możliwa gra na Eurobattle.net z dodatkowymi innymi graczami w naszej drużynie, proszę zapoznać się z możliwymi postaciami i wybranie sobie jednej: fighter (damage dealer/dps), defender (tank), cleric (healer + mag), botanist (sadzi drzewka i kwiatki/krzewy – taki alchemik/herbist), kowal (tworzy broń, zbroje, ekwipunek), builder (buduje miasto, mury, wieże obronne).
+ - W pozycji [7] gramy wszyscy w jednej drużynie (do 11 osób) na zasadzie PvE, jeżeli będzie nas za mało na zbalansowaną rozgrywkę, możliwa gra na Eurobattle.net z dodatkowymi innymi graczami w naszej drużynie, proszę zapoznać się z możliwymi postaciami i wybranie sobie jednej: fighter (damage dealer/dps), defender (tank), cleric (healer + mag), botanist (sadzi drzewka i kwiatki/krzewy – taki alchemik/herbist), kowal (tworzy broń, zbroje, ekwipunek), builder (buduje miasto, mury, wieże obronne).
 
- 1. pozycje [4], [6], [16], [17] rozgrywka typowa dla gier tego gatunku (fps).
+ - pozycje [4], [6], [16], [17] rozgrywka typowa dla gier tego gatunku (fps).
 
- 1. w pozycje [12] gramy podobnie jak w pozycji [7] tylko bez wydzielonych klas postaci, czyli hero survival
+ - w pozycje [12] gramy podobnie jak w pozycji [7] tylko bez wydzielonych klas postaci, czyli hero survival
 
- 1. w pozycjach [10] i [11] gramy każdy inna klasa w jednej drużynie na zasadzie PvE, rozgrywka charakterystyczna dla gatunku Online RPG.
+ - w pozycjach [10] i [11] gramy każdy inna klasa w jednej drużynie na zasadzie PvE, rozgrywka charakterystyczna dla gatunku Online RPG.
 
 
 ### 7. Wybór gier (kolejność grania itd.): 
-1. Należy zagrać przynajmniej raz w grę która otrzymała przynajmniej jeden głos główny
-1.	Kolejność gier jest determinowana na podstawie specjalnie przygotowanej procedury głosowania na pozycje, istnieje również możliwość zgłoszenia własnych pozycji wraz z proponowanym do zgłaszanej pozycji charakterem rozgrywki – zgłoszenie może być jednak odrzucone jeżeli sprzęt chociażby jednego z uczestników LAN Party nie będzie pozwalał na komfortowe granie w daną pozycję. Gramy w gry kolejno względem liczby otrzymanej sumy głosów (głównych i pochodnych, zdefiniowane w punkcie 7), najpierw jednak grając w tytuły które otrzymały przynajmniej jeden głos główny i maksymalną liczbę głosów w sumie (czyli otrzymanie największej liczby głosów nie gwarantuje, że tytuł będzie grany jako pierwszy – musi dodatkowo otrzymać minimum jeden głos główny). 
-1. Po każdej rozgrywce w daną pozycję odbywa się jawne, demokratyczne głosowanie które ma rozsądzić czy gramy w daną pozycję kolejny raz. Wyniki głosowań mogą być zmieniane poprzez procedury veta lub motywacji, jednak dopiero po drugiej rozgrywce w daną pozycję. 
-1. Zasada bezwzględnego veta technicznego - jeżeli dana gra nie zostanie uruchomiona u jednego lub więcej uczestników (z powodów technicznych), bądź też po uruchomieniu występują z nią problemy techniczne uniemożliwiające komfortowe prowadzenie rozgrywki, które nie zostaną rozwiązane w przeciągu 30 minut, to gra zostaje przerwana i przechodzimy do kolejnej pozycji na liście.
-1. Zasada veta i motywacji. Każdy uczestnik Lan Party musi przed rozpoczęciem procedury głosowania wybrać jedną z dwóch „możliwości” – jest to veto lub motywacja. Zasada veta umożliwia graczowi „zavetowania” rozgrywki w daną pozycję i przejście dalej z listą gier, jeżeli w grę zostały zagrane minimum dwie rozgrywki. Gracz który wybrał veto ma tylko jedną możliwość veta na całe LAN Party, tak samo z motywacją. Istnieje możliwość nie wybrania veta lub motywacji, skorzystanie z tej możliwości zapewnia danemu uczestnikowi dodatkowy szacunek innych graczy. Jedna pozycja może dostać maksymalnie jedno veto (co jest zrozumiałe bo z natury veta kończy rozgrywkę) i maksymalnie jedną motywację (po “zmotywowanej” rozgrywce odbywa się normalne głosowanie “czy chcemy grać jeszcze raz w tę grę” i dalsza procedura jest kontynuowana z wyłączenie możliwości użycia kolejnej motywacji.
-1. Około północy odbywa się tradycyjnie kilka (1-6 w zależności od chęci i zaangażowania graczy) rozgrywek gry "killer".
-1. Po zakończeniu listy gier gracze podejmują decyzję w jawnym demokratyczny głosowaniu czy powtarzają jakąś pozycję z listy, czy też spróbują innych gier.
+- Należy zagrać przynajmniej raz w grę która otrzymała przynajmniej jeden głos główny
+-	Kolejność gier jest determinowana na podstawie specjalnie przygotowanej procedury głosowania na pozycje, istnieje również możliwość zgłoszenia własnych pozycji wraz z proponowanym do zgłaszanej pozycji charakterem rozgrywki – zgłoszenie może być jednak odrzucone jeżeli sprzęt chociażby jednego z uczestników LAN Party nie będzie pozwalał na komfortowe granie w daną pozycję. Gramy w gry kolejno względem liczby otrzymanej sumy głosów (głównych i pochodnych, zdefiniowane w punkcie 7), najpierw jednak grając w tytuły które otrzymały przynajmniej jeden głos główny i maksymalną liczbę głosów w sumie (czyli otrzymanie największej liczby głosów nie gwarantuje, że tytuł będzie grany jako pierwszy – musi dodatkowo otrzymać minimum jeden głos główny). 
+- Po każdej rozgrywce w daną pozycję odbywa się jawne, demokratyczne głosowanie które ma rozsądzić czy gramy w daną pozycję kolejny raz. Wyniki głosowań mogą być zmieniane poprzez procedury veta lub motywacji, jednak dopiero po drugiej rozgrywce w daną pozycję. 
+- Zasada bezwzględnego veta technicznego - jeżeli dana gra nie zostanie uruchomiona u jednego lub więcej uczestników (z powodów technicznych), bądź też po uruchomieniu występują z nią problemy techniczne uniemożliwiające komfortowe prowadzenie rozgrywki, które nie zostaną rozwiązane w przeciągu 30 minut, to gra zostaje przerwana i przechodzimy do kolejnej pozycji na liście.
+- Zasada veta i motywacji. Każdy uczestnik Lan Party musi przed rozpoczęciem procedury głosowania wybrać jedną z dwóch „możliwości” – jest to veto lub motywacja. Zasada veta umożliwia graczowi „zavetowania” rozgrywki w daną pozycję i przejście dalej z listą gier, jeżeli w grę zostały zagrane minimum dwie rozgrywki. Gracz który wybrał veto ma tylko jedną możliwość veta na całe LAN Party, tak samo z motywacją. Istnieje możliwość nie wybrania veta lub motywacji, skorzystanie z tej możliwości zapewnia danemu uczestnikowi dodatkowy szacunek innych graczy. Jedna pozycja może dostać maksymalnie jedno veto (co jest zrozumiałe bo z natury veta kończy rozgrywkę) i maksymalnie jedną motywację (po “zmotywowanej” rozgrywce odbywa się normalne głosowanie “czy chcemy grać jeszcze raz w tę grę” i dalsza procedura jest kontynuowana z wyłączenie możliwości użycia kolejnej motywacji.
+- Około północy odbywa się tradycyjnie kilka (1-6 w zależności od chęci i zaangażowania graczy) rozgrywek gry "killer".
+- Po zakończeniu listy gier gracze podejmują decyzję w jawnym demokratyczny głosowaniu czy powtarzają jakąś pozycję z listy, czy też spróbują innych gier.
 
 ### 8. Procedura głosowania:
 Każdy biorący udział w LAN Party zobowiązany jest do udziału w tajnym głosowaniu które odbędzie się na początku LAN Party. Należy oddać dwa głosy na pozycje gier w które będziemy grać, muszą one różnić się jednak typem (nie wolno głosować na dwa fps-y itp.) oraz nie można oddać dwóch głosów na tę samą pozycję. Masz do dyspozycji głos główny oraz głos poboczny, głos główny oznacza, że tę grę musimy zagrać przynajmniej raz, głos poboczny natomiast mówi jedynie, że chętnie zagrasz w tę grę. Organizator zastrzega sobie prawo przyznania jednej z gier "dzikiej karty". "Dzika karta" może być przyznana grze która otrzymała wyłącznie głosy (głos) poboczne i traktowana jest jako dodatkowy głos główny.
@@ -121,14 +121,15 @@ Jeżeli jednak ilość osób chętnych będzie większa niż 11 zostanie utworzo
   Rozgrywka z wykorzystaniem opcji listy "rezerwowej" odbywa się z uwzględnieniem dodatkowych zasad:
     - Jeżeli gra umożliwia taką opcję, wszystkie osoby uczestniczą w rozgrywce
     - Jeżeli gra ma zadeklarowany maksymalny limit graczy mniejszy niż suma ilości osób razem z listą rezerwową przed każdą rozgrywką w nowy tytuł lub powtórzeniem rozgrywki tworzone są dwie grupy graczy Core Gamers i Additional Gamers.
+    - Gracze z listy rezerwowej tracą prawa tak jak w przypadku osób które spóźniły się na Lan Party
 
     - Core Gamers wybierani się wg. następującej kolejności:
         - osóby chętne do gry w daną grę
+        - kolejność wpłat
         - osóby które rozegrały najmniej gier podczas całego wydarzenia
-        - w przypadku remisu rzut monetą, rzut kością
+        - proces pseudolosowy z lekkim wskazaniem na https://www.random.org/
 
     - Additional Gamers
-        - tracą prawo do głosowania w sprawie powtórzenia rozgrywki 
         - mogą rozpocząć rozgrywkę w dowolną grę z obowiązującej listy gier z zaznaczeniem, że ich rozgrywka powinna być nie dłuższa niż sesja w której uczestniczą Core Gamers
 
 ### 17. Pytania?
