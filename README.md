@@ -1,9 +1,9 @@
-Regulamin LAN Party "New Year's Eve 2019"
+Regulamin LAN Party "Summer 2019"
 
-LAN Party z okazji nowego roku 2019!
+LAN Party z okazji pierwszego lata w roku 2019!
 
 ### 0. Dzień:
-planowany termin to 05.01.2019 (sobota a następnie noc z soboty na niedzielę)
+planowany termin to 08.06.2019 (sobota a następnie noc z soboty na niedzielę)
 
 ### 1. Godzina:
 13:00 - ostateczny termin rozpoczęcia głosowania
