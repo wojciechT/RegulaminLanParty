@@ -23,28 +23,28 @@ planowany termin to 09.07.2022 (sobota a następnie noc z soboty na niedzielę)
 Do listy mogą być oczywiście dopisane kolejne gry (np. z tej listy [hiveworkshop.com/forums/maps.php?mmr=6](http://www.hiveworkshop.com/forums/maps.php?mmr=6)) - propozycję prosimy umieszczać na stronie eventu. Istnieje jednak limit zgłaszania pozycji - jedna pozycja na uczestnika. Termin składania propozycji to 18:00 dnia poprzedzającego dzień lan party. Po tej dacie nastąpi zamknięcie listy gier. Zalecane jest żeby gry wspierały grę przez LAN, oraz nie miały wymogów rejestracji. (Termin ten związany jest z czasem potrzebnym na instalację i konfigurację gier na wszystkich stanowiskach). Zależnie od ostatecznej liczby graczy, niektóre pozycje mogą być wykreślone z listy gier w przypadku, gdy liczba graczy przekracza maksimum dla danej gry (patrz parametr “max X graczy”).
 
 ### 3. Uczestnicy:
-~~Ze względu na to, że bardzo niewiele gier wspiera grę powyżej 10 graczy, jest to teoretyczne maksimum. Decyduje kolejność przelewów bankowych na kwotę 48 PLN na dowolne z kont niżej wymienionych z tytułem LAN Party "New Year's Eve 2019", BLIK lub ekwiwalent w kryptowalutach. Środki zostaną przeznaczone na organizację eventu, tj. zakup wyżywienia i prowiantu. Ewentualne nadwyżki będą przechodzić na budżet kolejnych eventów.
+~~Ze względu na to, że bardzo niewiele gier wspiera grę powyżej 10 graczy, jest to teoretyczne maksimum. Decyduje kolejność przelewów bankowych na kwotę 48 PLN na dowolne z kont niżej wymienionych z tytułem LAN Party "New Year's Eve 2019", BLIK lub ekwiwalent w kryptowalutach. Środki zostaną przeznaczone na organizację eventu, tj. zakup wyżywienia i prowiantu. Ewentualne nadwyżki będą przechodzić na budżet kolejnych eventów.~~
 
-~~Nr konta PKO BP S.A.: 34 1020 1853 0000 9802 0291 3127
+~~Nr konta PKO BP S.A.: 34 1020 1853 0000 9802 0291 3127~~
 
-~~Nr konta Deutsche Bank Polska S.A.: 41 1910 1048 2944 0377 5653 0001
+~~Nr konta Deutsche Bank Polska S.A.: 41 1910 1048 2944 0377 5653 0001~~
 
-~~BLIK: 725-656-424
+~~BLIK: 725-656-424~~
 
-~~BTC: 1AQro1E5mEnW3nMg6KUn4N1hqJVTauo895
+~~BTC: 1AQro1E5mEnW3nMg6KUn4N1hqJVTauo895~~
 
-~~ETH: 0xb8eb04e5aaaa06fdfcd573b2583a274e92c63bf4
+~~ETH: 0xb8eb04e5aaaa06fdfcd573b2583a274e92c63bf4~~
 
-~~DASH: XdwU4WHLYdf9ysLGqLGXjN4Dtfa7XXjaCy
+~~DASH: XdwU4WHLYdf9ysLGqLGXjN4Dtfa7XXjaCy~~
 
-~~LTC: Ld7UYfktiFdTYsR6jfEN61URgsrim9BG1f
+~~LTC: Ld7UYfktiFdTYsR6jfEN61URgsrim9BG1f~~
 
-~~VTC: VwphYXj7SUarozdbwjzWbFkJvB7ok5cb9U
+~~VTC: VwphYXj7SUarozdbwjzWbFkJvB7ok5cb9U~~
 
 W przypadku gdy podczas rozgrywek pojawią się osoby, które chcą do nas dołączyć jest to możliwe pod warunkiem zgody większości uczestników LAN Party i wsparcia technicznego gry, która jest obecnie rozgrywana na zwiększoną liczbę graczy. Takie osoby nie stają się jednak pełnoprawnymi członkami LAN Party, tj. są pozbawieni wszelkiego prawa do głosu - zarówno na gry jak i po skończonej rozgrywce a nawet w sytuacjach wymagających rozwiązywania konfliktów, nie mają oni również prawa veta ani motywacji.
 
 ### 4. Wyżywienie:
-~~Przewidziane jest grupowe zamawianie jedzenia minimum dwa razy w ciągu LAN Party oraz napoje energetyczne w ilości 1L na osobę, poza tym można korzystać z ogólnie dostępnego, nieograniczonego zasobu wody niegazowanej. 
+~~Przewidziane jest grupowe zamawianie jedzenia minimum dwa razy w ciągu LAN Party oraz napoje energetyczne w ilości 1L na osobę, poza tym można korzystać z ogólnie dostępnego, nieograniczonego zasobu wody niegazowanej.~~ 
 
 Mile widziane jest też przyniesienie własnego prowiantu.
 
